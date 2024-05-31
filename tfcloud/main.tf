@@ -4,7 +4,7 @@
 
 /* a list of local variables */
 locals {
-  fellowship = ["strider", "frodo", "gandalf"]
+  fellowship = ["strider", "frodo", "gandalf", "katanga"]
 }
 
 /* The null_resource */
